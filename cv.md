@@ -15,12 +15,10 @@ I am an economist, I love working with numbers and analytics. Now I'm trying to 
 
 ## **Code examples**
 ```
-function multiply(a, b){
- return a * b
-}
-
-let result = multiply(1, 1);
-alert( result );
+function multiply(a, b) {
+  a * b
+  return a * b
+};
 ```
 
 ## **Education**
@@ -28,6 +26,6 @@ alert( result );
 + Courses: Stepik - SQL
 
 ## **Languages**
-+ Russians
++ Russian
 + English
 + Spanish
