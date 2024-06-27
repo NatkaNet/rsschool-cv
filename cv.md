@@ -14,6 +14,14 @@ I am an economist, I love working with numbers and analytics. Now I'm trying to 
 + SQL
 
 ## **Code examples**
+```
+function multiply(a, b){
+ return a * b
+}
+
+let result = multiply(1, 1);
+alert( result );
+```
 
 ## **Education**
 + University: NAPKS – economist
